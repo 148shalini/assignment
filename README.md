@@ -6,7 +6,7 @@
 3.You can also download the source code.
 
 
-#IMPLEMENTATION
+# IMPLEMENTATION
 
 Add resizable of the ace editors (https://ourcodeworld.com/articles/read/994/how-to-make-an-ace-editor-instance-resizable-by-the-user-dinamically-with-a-drag-and-drop-bar), (http://jsfiddle.net/U5JtP/199/)
 
